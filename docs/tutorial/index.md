@@ -2,7 +2,7 @@
 next_page: app.md
 ---
 
-##Cloud Crowd Team DEMO
+##Cloud Crowd Team DEMO test run
 ## The command you just ran
 
 Congratulations! You have started the container for this tutorial!
