@@ -3,7 +3,7 @@ next_page: app.md
 ---
 
 ##Cloud Crowd Team DEMO test run
-## The command you just ran
+## The command you just ran test run
 
 Congratulations! You have started the container for this tutorial!
 Let's first explain the command that you just ran. In case you forgot,
